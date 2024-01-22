@@ -1,5 +1,5 @@
 #!/bin/bash
-CONTROLLER_URL="http://172.31.2.2"
+CONTROLLER_URL="http://52.87.161.67"
 SERVER_IP=`curl http://169.254.169.254/latest/meta-data/local-ipv4`
 wget https://github.com/prometheus/node_exporter/releases/download/v1.6.0/node_exporter-1.6.0.linux-amd64.tar.gz
 tar xvfz node_exporter-*.*-amd64.tar.gz
