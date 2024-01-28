@@ -1,0 +1,2 @@
+This thing will download a anaconda installment package to /controller/server and leave it there.
+For the sake of storage, suggest delete it after usage
